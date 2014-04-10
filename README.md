@@ -24,4 +24,5 @@ It currently supports the following providers:
 ## Contributing
 
 Pull requests are welcomed for bugs & new features!
-Make sure you create a new branch and that you are folllowing the [Ruby Style Guide](https://github.com/styleguide/ruby)
+
+Make sure you create a new branch and that you are folllowing the [Ruby Style Guide](https://github.com/styleguide/ruby).
