@@ -3,7 +3,6 @@ require 'uri'
 
 # Redis support commands
 class Heroku::Command::Redis < Heroku::Command::Base
-
 # Declaring ENV Vars of various Redis Providers
   REDIS_PROVIDERS = %w( OPENREDIS_URL REDISTOGO_URL REDISGREEN_URL REDISCLOUD_URL )
 
